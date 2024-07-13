@@ -14,27 +14,27 @@
     "env": {
         "API_ID": {
             "description": "Retrieve this value from https://my.telegram.org.",
-            "value": "",
+            "value": "26785208",
             "required": true
         },
         "API_HASH": {
             "description": "Retrieve this value from https://my.telegram.org.",
-            "value": "",
+            "value": "0ddf86040a271eaa552c3fe159d1e541",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Obtain a bot token from Botfather on Telegram.",
-            "value": "",
+            "value": "6996352579:AAEuxkBxsB7e8QpCXX7Ok8Uhks_mqAGbImo",
             "required": true
         },
         "MONGO_DB_URI": {
             "description": "Get a MongoDB URL from https://cloud.mongodb.com.",
-            "value": "",
+            "value": "mongodb+srv://BrandedSupportGroup:BRANDED_WORLD@cluster0.v4odcq9.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "OWNER_ID": {
             "description": "The user ID of the owner you want to add.",
-            "value": "",
+            "value": "6865637257",
             "required": true
         },
         "STRING_SESSION": {
@@ -54,7 +54,7 @@
         },
         "LOGGER_ID": {
             "description": "Your Log Group ID. Add your bot and promote it to admin with full rights.",
-            "value": "",
+            "value": "-1002118977067",
             "required": true
         },
         "GPT_API": {
