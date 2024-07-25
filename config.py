@@ -9,7 +9,7 @@ load_dotenv()
 # Telegram API credentials - Get these from the Telegram API website
 API_ID = int(getenv("API_ID",26785208))
 API_HASH = getenv("API_HASH","0ddf86040a271eaa552c3fe159d1e541")
-BOT_TOKEN = getenv("BOT_TOKEN","6996352579:AAElmo9ESfl0XAzOoXfkneTmh2WivlVse6w")
+BOT_TOKEN = getenv("BOT_TOKEN","6996352579:AAHYisyfJfLOW0f5Cxnjc7QqctXeyxO3Hno")
 
 # Specify where to get the following credentials
 OWNER_USERNAME = getenv("OWNER_USERNAME", "AllllllllllllllIllllllll")
