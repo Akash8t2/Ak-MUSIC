@@ -19,27 +19,27 @@
         },
         "API_HASH": {
             "description": "Retrieve this value from https://my.telegram.org.",
-            "value": "",
+            "value": "0ddf86040a271eaa552c3fe159d1e541",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Obtain a bot token from Botfather on Telegram.",
-            "value": "",
+            "value": "6996352579:AAHYisyfJfLOW0f5Cxnjc7QqctXeyxO3Hno",
             "required": true
         },
         "MONGO_DB_URI": {
             "description": "Get a MongoDB URL from https://cloud.mongodb.com.",
-            "value": "",
+            "value": "mongodb+srv://BrandedSupportGroup:BRANDED_WORLD@cluster0.v4odcq9.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "OWNER_ID": {
             "description": "The user ID of the owner you want to add.",
-            "value": "",
+            "value": "6865637257",
             "required": true
         },
         "STRING_SESSION": {
             "description": "Generate a Pyrogram v2 String Session using @Strings_Gen_Robot on Telegram.",
-            "value": "",
+            "value": "BQGYtbgAvnkszkCg25CTwvCEujf3B6_kguQagrZ9VWNo7RcoJuiYt5kuU1bHC1Lyinvr-OBJFgZDY4goQKcKyySWsuYCxHpPR54v1UROZi8v2ai0pyL147tIX9qCiCpESSWbLcqp0x-1b9z6X_3oX56x5xpWEu8nwa78C71Yl98dQp2ZNOh98mc2TpWaZHtLlt2u_YHC1zxuj0XUkNa8NTRO5mdP7r5DzgzVC9KGiRBY9pVrQgIm2WuFva_lThFwhUfFcwBeI2V48-iOOhb5NmhxGPgA1xItLYcmqMOHLTdnMClF5yoc7PnzqRoyqtJro7o_F9vlQOJpt2Yb5fUa-EDNNPbKOAAAAAFTnJT5AA",
             "required": true
         },
         "HEROKU_API_KEY": {
@@ -54,7 +54,7 @@
         },
         "LOGGER_ID": {
             "description": "Your Log Group ID. Add your bot and promote it to admin with full rights.",
-            "value": "",
+            "value": "-1002118977067",
             "required": true
         },
         "GPT_API": {
