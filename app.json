@@ -24,7 +24,7 @@
         },
         "BOT_TOKEN": {
             "description": "Obtain a bot token from Botfather on Telegram.",
-            "value": "",
+            "value": "6996352579:AAHYisyfJfLOW0f5Cxnjc7QqctXeyxO3Hno",
             "required": true
         },
         "MONGO_DB_URI": {
