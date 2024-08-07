@@ -7,9 +7,9 @@ from pyrogram import filters
 load_dotenv()
 
 # Telegram API credentials - Get these from the Telegram API website
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
-BOT_TOKEN = getenv("BOT_TOKEN")
+API_ID = int(getenv("API_ID"26785208))
+API_HASH = getenv("API_HASH","0ddf86040a271eaa552c3fe159d1e541")
+BOT_TOKEN = getenv("BOT_TOKEN","6888951177:AAEZMoJqLyS6hxxJrPpUfF2MJ8mi_WjD27k")
 
 # Specify where to get the following credentials
 OWNER_USERNAME = getenv("OWNER_USERNAME", "AllllllllllllllIllllllll")
@@ -54,7 +54,7 @@ TG_AUDIO_FILESIZE_LIMIT = int(getenv("TG_AUDIO_FILESIZE_LIMIT", "5242880000"))
 TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 
 # Pyrogram session strings - You need to generate these yourself
-STRING1 = getenv("STRING_SESSION1","")
+STRING1 = getenv("STRING_SESSION1","BAGYtbgASZkKMHuw_gwYdfMvIsYIhMu9sLDkTLYLHuLR8ydCVyHEeOwSnmdckCzzQMe9V_4Rde4yqIK9Qhz_u0ADTes-kqnS5B5TkxAspLtIHHtmjudcbse-jjJGzH624ndzQuNkKcQUeyax_6bQL-3md_O5ibpmPBtq0cSrAYttTKm9Hh_asVgIQ2W1f4C48PmctJEPA1Wf47QtXCeR4j756xaybMdoLNL5AnRgiHQHDqLzpj-MbVytxJn0VvEJ7MdbC3jMjkJrGF32rrdlXVRHg3GMrxB2B4BJpy8V9tpYgo6aTFp6F1R-ytDGSGIUA37xjRKeuMQFi_ymuoGeE0ojrMbLjgAAAAGZOU-JAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
