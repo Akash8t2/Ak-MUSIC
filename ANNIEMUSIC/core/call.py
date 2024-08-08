@@ -17,7 +17,7 @@ from pytgcalls.types.input_stream.quality import HighQualityAudio, MediumQuality
 from pytgcalls.types.stream import StreamAudioEnded
 
 import config
-from ANNIEMUSIC import LOGGER, YouTube, app
+from ANNIEMUSIC import LOGGER, YouTube, app, YTB
 from ANNIEMUSIC.misc import db
 from ANNIEMUSIC.utils.database import (
     add_active_chat,
