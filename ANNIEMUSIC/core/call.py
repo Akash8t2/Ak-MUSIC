@@ -466,6 +466,14 @@ class Call(PyTgCalls):
                 try:
                     await client.change_stream(chat_id, stream)
                 except:
+                try:
+                        file_path, direct = await YTB.download(
+                            videoid,
+                            mystic,
+                            videoid=True,
+                            video=str(streamtype) == "video",
+                        )
+                    except:
                     return await app.send_message(
                         original_chat_id,
                         text=_["call_6"],
